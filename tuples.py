@@ -1,4 +1,4 @@
-#tuples are similar to list but tuples are immutable in nature.
+#tuples are similar to list but tuples are immutable in nature.Tuple items are ordered, unchangeable, and allow duplicate values.
 #once it is created it cannot be modified.just like list ,a tuple also contain element of various type
 
 

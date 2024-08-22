@@ -1,4 +1,4 @@
-#python list are orderd colletion of data.
+#python list are orderd colletion of data.it is changeable and allow duplicate
 #creating a python list
 
 List = [1, 2, 3, "nisha", 2.2]
